@@ -1,2 +1,1 @@
-# LGMVIP-DataScience
-Classification Model & Decision Tree
+# LGMVIP-DataScience (Classification Model & Decision Tree)
